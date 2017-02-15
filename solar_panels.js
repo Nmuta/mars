@@ -7,3 +7,5 @@ console.log("output is "+output);
 
 
 console.log("Houston, we don't have any problems. All clear");
+
+console.log("Actually, we might have problems...not sure yet.");
